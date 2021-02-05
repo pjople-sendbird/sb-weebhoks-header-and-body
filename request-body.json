@@ -1,0 +1,60 @@
+{
+  "category": "group_channel:message_send",
+  "custom_type": "",
+  "mention_type": "users",
+  "mentioned_users": [],
+  "app_id": "-",
+  "members": [
+    {
+      "unread_message_count": 234,
+      "total_unread_message_count": 234,
+      "is_active": true,
+      "is_online": true,
+      "is_hidden": 0,
+      "channel_mention_count": 0,
+      "nickname": "Moderator",
+      "user_id": "-",
+      "channel_unread_message_count": 2,
+      "state": "joined",
+      "push_enabled": true,
+      "push_trigger_option": true,
+      "profile_url": "-",
+      "metadata": {}
+    },
+    {
+      "unread_message_count": 1,
+      "total_unread_message_count": 1,
+      "is_active": true,
+      "is_online": false,
+      "is_hidden": 0,
+      "channel_mention_count": 0,
+      "nickname": "-",
+      "user_id": "-",
+      "channel_unread_message_count": 1,
+      "state": "joined",
+      "push_enabled": true,
+      "push_trigger_option": true,
+      "profile_url": "-",
+      "metadata": {}
+    }
+  ],
+  "type": "MESG",
+  "payload": {
+    "created_at": 1554274860176,
+    "message": "message",
+    "data": "",
+    "message_id": 97883990,
+    "custom_type": ""
+  },
+  "channel": {
+    "is_distinct": false,
+    "name": "Group Channel",
+    "custom_type": "",
+    "is_ephemeral": false,
+    "channel_url": "-",
+    "is_public": false,
+    "is_super": false,
+    "data": ""
+  },
+  "sdk": "API"
+}
