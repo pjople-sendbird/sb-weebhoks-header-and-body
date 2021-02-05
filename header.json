@@ -1,0 +1,8 @@
+{
+  "content-length": "xx",
+  "accept-encoding": "gzip, deflate",
+  "accept": "*/*",
+  "user-agent": "SendBird",
+  "x-signature": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "content-type": "application/json"
+}
